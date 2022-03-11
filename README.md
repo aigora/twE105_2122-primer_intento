@@ -3,7 +3,7 @@
 [Descripción breve del proyecto a realizar (2-3 frases).]
 
 ## Integrantes del equipo
-* Sergio Díaz [(https://github.com/serdige)]
+* Sergio Díaz [(serdige)](https://github.com/serdige)
 
 ## Objetivos del trabajo
 
