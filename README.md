@@ -1,9 +1,12 @@
-# [Título del trabajo]
+# [Primer_intento]
 
-[Descripción breve del proyecto a realizar (2-3 frases).]
+[Laberinto.]
 
 ## Integrantes del equipo
-* Sergio Díaz [(serdige)](https://github.com/serdige)
+* Sergio Díaz 
+* Emilio Rodriguez
+* Nicolás Albelda
+* David Arnaiz
 
 ## Objetivos del trabajo
 
