@@ -1,13 +1,14 @@
-# [Primer_intento]
+# Primer_intento
 
-[Laberinto.]
+Laberinto imposible.
 
 ## Integrantes del equipo
-* Sergio Díaz 
-* Emilio Rodriguez
-* Nicolás Albelda
-* David Arnaiz
+* Sergio Díaz	    serdige
+* Emilio Rodríguez  emiliorodriguez
+* Nicolás Albelda   NicolasAUun
+* David Arnaiz	    Arnaiz13
 
 ## Objetivos del trabajo
 
 [Lista de los objetivos que se persiguen con el trabajo propuesto.]
+1º 
