@@ -8,7 +8,7 @@ deberá llegar a la salida antes de que el temporizador que aparece en pantalla 
 ## Integrantes del equipo
 * Sergio Díaz	       (serdige)
 * Emilio Rodríguez  (emiliorodriguez)
-* Nicolás Albelda   (NicolasAJun)
+* Nicolás Albelda   (NicolasAlJun)
 * David Arnaiz      (Arnaiz13)
 
 ## Objetivos del trabajo
